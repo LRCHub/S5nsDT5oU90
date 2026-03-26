@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "base_track": "XOXZ",
+  "base_artist": "IVE",
+  "createdAt": "2026-03-26T12:23:21.654052Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "XOXZ",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/01_XOXZ_IVE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "XOXZ (XOXZ)",
+      "artist": "IVE (아이브)",
+      "has_synced": true,
+      "path": "select/02_XOXZ_(XOXZ)_IVE_(아이브).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "XOXZ",
+      "artist": "IVE (아이브)",
+      "has_synced": true,
+      "path": "select/03_XOXZ_IVE_(아이브).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "XOXZ (Paused)",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/04_XOXZ_(Paused)_IVE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "XOXZ",
+      "artist": "IVE",
+      "has_synced": false,
+      "path": "select/pl_01_XOXZ_IVE.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "XOXZ",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/localdb_01_XOXZ_IVE.lrc",
+      "repo_name": "B1ShLiq3EVc"
+    }
+  ]
+}
